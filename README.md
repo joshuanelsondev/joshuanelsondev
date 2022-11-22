@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Bienvenido, Welcome! 👋
+---
 <!--
 **joshuanelsondev/joshuanelsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently learning fullstack development at Pursuit
+- 📫 How to reach me: joshuanelsondev@gmail.com
+- ⚡ Fun fact: I'm also a musician! 
+- I'm passionate about helping people in low-income communities create futures for themselves, early on and later in life!
+- Create something!
