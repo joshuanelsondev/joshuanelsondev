@@ -1,6 +1,6 @@
 ### Bienvenido, Welcome!
 ![MasterHead](https://media1.giphy.com/media/YnexM9LwlwGu4Z1QnS/200w.webp?cid=ecf05e47pfon3mrjka6iacds8hqu3c4gs4obnmy3zgew7g8o&rid=200w.webp&ct=g)
-![MasterHead](https://media1.giphy.com/media/YnexM9LwlwGu4Z1QnS/200w.webp?cid=ecf05e47pfon3mrjka6iacds8hqu3c4gs4obnmy3zgew7g8o&rid=200w.webp&ct=g
+
 ---
 <!--
 **joshuanelsondev/joshuanelsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
