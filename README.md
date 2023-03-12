@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently learning fullstack development at Pursuit
-- 📫 How to reach me: joshuanelsondev@gmail.com
-- ⚡ Fun fact: I'm also a musician! 
+- I’m learning fullstack development at Pursuit
+- email me: joshuanelsondev@gmail.com
+- I'm a saxophonist 🎷
 - I'm passionate about helping people in low-income communities create futures for themselves, early on and later in life!
 - Create something!
