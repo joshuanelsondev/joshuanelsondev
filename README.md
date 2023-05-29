@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=400%2C199&strip=all" width="600" height="auto" />
+  <img src="https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e" width="700" height="auto" />
 </p>
 
 ---
