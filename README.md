@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg" width="600" height="auto" />
+  <img src="https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=400%2C199&strip=all" width="600" height="auto" />
 </p>
 
 ---
