@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/YnexM9LwlwGu4Z1QnS/200w.webp?cid=ecf05e47pfon3mrjka6iacds8hqu3c4gs4obnmy3zgew7g8o&rid=200w.webp&ct=g" width="600" height="auto" />
+  <img src="https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg" width="600" height="auto" />
 </p>
 
 ---
