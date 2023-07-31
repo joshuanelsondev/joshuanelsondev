@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m a Web Developer at Pursuit
+- I'm a Web Developer
+- I’m a fellow at Pursuit
 - email me: joshuanelsondev@gmail.com
 - I'm a saxophonist 🎷
 - I'm passionate about helping people in low-income communities create futures for themselves, early on and later in life!
