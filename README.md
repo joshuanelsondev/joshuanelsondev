@@ -4,23 +4,8 @@
 </p>
 
 ---
-<!--
-**joshuanelsondev/joshuanelsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on a project that will help private instructors manage their studios more efficiently.
 
-Here are some ideas to get you started:
+New projects on the Horizon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- I'm a Web Developer
-- I’m a fellow at Pursuit
-- email me: joshuanelsondev@gmail.com
-- I'm a saxophonist 🎷
-- I'm passionate about helping people in low-income communities create futures for themselves, early on and later in life!
-- Let's Create something!
+I'm a saxophonist 🎷 developer 💻 and educator 🍎 helping people reach their full potential. 
