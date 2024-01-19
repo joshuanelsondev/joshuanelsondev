@@ -1,9 +1,6 @@
 
-<h1 align="center">  Bienvenido, Welcome!</h1>
-
-
 <p align="center">
-  <img src="https://s3-ap-southeast-2.amazonaws.com/ish-oncourse-scc/a8578396-462f-4f53-a11b-b5754ca8135e" width="700" height="auto" />
+  <img src="https://streak-stats.demolab.com?user=joshuanelsondev&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats" />
 </p>
 
 ---
