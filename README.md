@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=joshuanelsondev&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joshuanelsondev&theme=github-dark-blue&border_radius=5&background=253238&fire=A5EB6F&currStreakNum=A5EB6F" alt="GitHub Streak" /></a>
 </p>
 
 ---
