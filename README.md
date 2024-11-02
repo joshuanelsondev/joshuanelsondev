@@ -8,4 +8,4 @@ I'm currently working on a project that will help private instructors manage the
 
 New projects on the Horizon!
 
-I'm a saxophonist 🎷 developer 💻 and educator 🍎 always reaching for more. 
+I'm a saxophonist 🎷 programmer 💻 and educator 🍎 always reaching for more. 
